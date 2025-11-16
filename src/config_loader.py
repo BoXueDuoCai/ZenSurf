@@ -46,8 +46,6 @@ def get_default_config_data():
             "chrome.exe",
             "msedge.exe",
             "Taskmgr.exe",
-            "mmc.exe",
-            "regedit.exe",
         ],
         "_comment2": "在这里设置一个或多个禁用时间段 (24小时制)。每行一个，格式: [注释:]HH:MM-HH:MM",
         "禁用时间段": [
